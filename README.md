@@ -6,3 +6,5 @@ simple wiki using go std lib
 go build
 ./go-wiki
 ```
+
+test ci
